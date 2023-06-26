@@ -1,0 +1,32 @@
+#main-content p{
+  color:red;
+  word-spacing: 2px;
+}
+
+
+p{
+  color:blueviolet;
+  text-transform:uppercase;
+  word-spacing: 2px;
+}
+
+.test{
+  color:green;
+  word-spacing: 2px;
+}
+
+strong{
+  color:rgb(42, 165, 95);
+   word-spacing:4px ;
+}
+
+h1{
+  color:black;
+}
+h2{
+  color:aqua;
+}
+span{
+  color:yellow;
+  word-spacing:1px;
+}
